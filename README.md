@@ -1,35 +1,39 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
+# Erica Gilmore
+* Click [here](https://socialxmisfit.github.io/socialxmisfit to view full portfolio_
 
-# {{ name }}
-
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-   </tr>
-</table>
-
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
-
-* Click [here](https://{{ username }}.github.io/{{ username }}) to view full portfolio_
-
+### Objective
+* Experienced medical coder looking for a position in a respected health organization where I can 
+advance my knowledge and skills of Medical Coding.
 
 ### Education
-* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
-* _[Certificate of Completion](./bachelors-degree.pdf)_
+* YTI Career Institute - _August 2014 - August 2015_
+* * Major: Medical Billing and coding
+  * GPA 4.0
 
+### Certifications
+* CPC Certification
+
+### Skills
+* Orthopedic Coding
+* Anatomy and Physiology
+* ICD-10-CM Coding
+* Microsoft Office
+* Medical Terminology
+* CPT/HCPCS Coding
+* Microsoft Excel
+* Customer Service
+
+### Employment
+#### Lancaster Orthopedic Group 
+##### Lancaster, PA August 2015 - Present
+* Medical Office Coder
+* * Review, verify and audit that the documentation supports diagnoses. 
+* * Identify documentation deficiencies and contact physicians for clarifications.
+* * Follow all coding guidelines and research/assign appropriate ICD-10/HCPCS/CPT codes
+to patients’ medical records
 
 
 ### Contact Information
-* **Email**: [`{{ email }}`](mailto:{{ email }})
-* **Website:** [`{{ repository }}`]({{ repository }})
-* **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
+* **Email**: gilmore.erica.m@gmail.com (mailto:{{ gilmore.erica.m@gmail.com }})
+* **Website:** [`{{ https://socialxmisfit.github.io/socialxmisfit }}`]({{ socialxmisfit }})
+* **LinkedIn:** [`{{ https://www.linkedin.com/in/erica-gilmore-0135a1240 }}`]({{ Erica Gilmore }})
