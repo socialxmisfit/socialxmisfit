@@ -1,5 +1,5 @@
 # Erica Gilmore
-* Click [here](https://socialxmisfit.github.io/socialxmisfit to view full portfolio_
+* Click https://socialxmisfit.github.io/socialxmisfit to view full portfolio
 
 ### Objective
 * Experienced medical coder looking for a position in a respected health organization where I can 
@@ -34,6 +34,6 @@ to patients’ medical records
 
 
 ### Contact Information
-* **Email**: gilmore.erica.m@gmail.com (mailto:{{ gilmore.erica.m@gmail.com }})
-* **Website:** [`{{ https://socialxmisfit.github.io/socialxmisfit }}`]({{ socialxmisfit }})
-* **LinkedIn:** [`{{ https://www.linkedin.com/in/erica-gilmore-0135a1240 }}`]({{ Erica Gilmore }})
+* **Email**: gilmore.erica.m@gmail.com
+* **Website:** https://socialxmisfit.github.io/socialxmisfit
+* **LinkedIn:** https://www.linkedin.com/in/erica-gilmore-0135a1240 
