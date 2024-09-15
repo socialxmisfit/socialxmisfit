@@ -1,44 +1,39 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
+# Erica Gilmore
+* Click https://socialxmisfit.github.io/socialxmisfit to view full portfolio
 
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-   </tr>
-</table>
-
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/my-style.css" />
-
-_Click [here](https://github.com/{{ username }}) to view my Github Profile_
-
+### Objective
+* Experienced medical coder looking for a position in a respected health organization where I can 
+advance my knowledge and skills of Medical Coding.
 
 ### Education
-* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
-* _[Certificate of Completion](./bachelors-degree.pdf)_
+* YTI Career Institute - _August 2014 - August 2015_
+* * Major: Medical Billing and coding
+  * GPA 4.0
+
+### Certifications
+* CPC Certification
+
+### Skills
+* Orthopedic Coding
+* Anatomy and Physiology
+* ICD-10-CM Coding
+* Microsoft Office
+* Medical Terminology
+* CPT/HCPCS Coding
+* Microsoft Excel
+* Customer Service
+
+### Employment
+#### Lancaster Orthopedic Group 
+##### Lancaster, PA August 2015 - Present
+* Medical Office Coder
+* * Review, verify and audit that the documentation supports diagnoses. 
+* * Identify documentation deficiencies and contact physicians for clarifications.
+* * Follow all coding guidelines and research/assign appropriate ICD-10/HCPCS/CPT codes
+to patients’ medical records
 
 
 ### Contact Information
-* **Email**: [`{{ email }}`](mailto:{{ email }})
-* **Website:** [`{{ repository }}`]({{ repository }})
-* **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
-
-### Personal Projects
-* none
-
-### Exercise and Assignment Completion
-* [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [Installing Chocolatey](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [Installing Git CLI](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/installation/content.html)
-    * [Introductory Command Line](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [My First Git Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html)
-    * [My First Github Page Deployment](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-githubpage/content.html)
-    * [Adding Changes to Preexisting Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/add-change-to-preexisting-repo/content.html)
+* **Email**: gilmore.erica.m@gmail.com
+* **Website:** https://socialxmisfit.github.io/socialxmisfit
+* **LinkedIn:** https://www.linkedin.com/in/erica-gilmore-0135a1240 
