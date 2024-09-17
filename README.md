@@ -7,8 +7,8 @@ advance my knowledge and skills of Medical Coding.
 
 ### Education
 * YTI Career Institute - _August 2014 - August 2015_
-* * Major: Medical Billing and coding
-  * GPA 4.0
+  * Major: Medical Billing and coding
+    * GPA 4.0
 
 ### Certifications
 * CPC Certification
@@ -27,9 +27,9 @@ advance my knowledge and skills of Medical Coding.
 #### Lancaster Orthopedic Group 
 ##### Lancaster, PA August 2015 - Present
 * Medical Office Coder
-* * Review, verify and audit that the documentation supports diagnoses. 
-* * Identify documentation deficiencies and contact physicians for clarifications.
-* * Follow all coding guidelines and research/assign appropriate ICD-10/HCPCS/CPT codes
+  * Review, verify and audit that the documentation supports diagnoses. 
+  * Identify documentation deficiencies and contact physicians for clarifications.
+  * Follow all coding guidelines and research/assign appropriate ICD-10/HCPCS/CPT codes
 to patients’ medical records
 
 
