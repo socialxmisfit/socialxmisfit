@@ -1,5 +1,5 @@
 # Erica Gilmore
-* Click https://socialxmisfit.github.io/socialxmisfit to view full portfolio
+* Click https://socialxmisfit.github.io/my-first-page-deployment to view full portfolio
 
 ### Objective
 * Experienced medical coder looking for a position in a respected health organization where I can 
